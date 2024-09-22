@@ -1,0 +1,10 @@
+yolov8n.pt
+yolov8s.pt
+yolov8x.pt
+runs/detect/s_v1/weights/*.pt
+runs/detect/s_v1_ep100/weights/*.pt
+runs/detect/train/weights/*.pt
+runs/detect/train2/weights/*.pt
+runs/detect/train3/weights/*.pt
+runs/detect/train4/weights/*.pt
+runs/detect/train5/weights/*.pt
